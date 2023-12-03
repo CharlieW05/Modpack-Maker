@@ -76,7 +76,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>dabdaddy.mmm.modpackmaker/dabdaddy.mmm.modpackmaker.HelloApplication</mainClass>
+                            <mainClass>dabdaddy.mmm.modpackmaker/dabdaddy.mmm.modpackmaker.ModpackMakerApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
